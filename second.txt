@@ -8,4 +8,6 @@ recursive merge data base
 function  dev
 
 
-hrishikesh commited new code
+hrishikesh commited new code	
+
+some bug fixed
